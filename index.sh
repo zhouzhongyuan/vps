@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 
+# ShadowSocks
+
+#pptp vpn
+
+
+
+
 # update
 apt-get update
 
